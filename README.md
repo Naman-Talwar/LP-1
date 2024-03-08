@@ -12,4 +12,10 @@
 
 - **Assignment 2:**
   - **Date Added:** 29th February 2024
+ 
+- **Assignment 3:**
+  - **Date Added:** 5th March 2024
+
+- **Assignment 4:**
+  - **Date Added:** 5th March 2024
 
