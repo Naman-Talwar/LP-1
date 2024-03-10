@@ -18,4 +18,13 @@
 
 - **Assignment 4:**
   - **Date Added:** 5th March 2024
+ 
+- **Assignment 5:**
+  - **Date Added:** 10th March 2024
+ 
+- **Assignment 6:**
+  - **Date Added:** 10th March 2024
+
+- **Assignment 7:**
+  - **Date Added:** 10th March 2024
 
